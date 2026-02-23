@@ -92,7 +92,11 @@ Open the local URL shown in terminal (usually `http://localhost:5173`).
 ## 📸 Screenshots
 
 Example:
+
 <img width="1882" height="975" alt="image" src="https://github.com/user-attachments/assets/1f563f64-f8dc-4648-b47f-376bc4826396" />
+
+<img width="1858" height="921" alt="image" src="https://github.com/user-attachments/assets/ba23d998-f0c4-4601-b45c-c8bbda2d6fc3" />
+
 <img width="1845" height="972" alt="image" src="https://github.com/user-attachments/assets/ba8f9576-8258-4108-b0b7-1d646224c562" />
 
 ---
